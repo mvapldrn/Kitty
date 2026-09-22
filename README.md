@@ -1,7 +1,7 @@
 My Kitty configuration
 
-Copy to
+Simply clone to .config
 
-  $ cp kitty.conf ${HOME}/.config/kitty/kitty.conf
+  $ git clone git@github.com:mvapldrn/Kitty.git
 
   
